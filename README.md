@@ -8,11 +8,11 @@
 <h3 align="left">Ongoing activities</h3>
 
 - Recently back on GitHub after a year of Software Internship🧑‍💻 & XR-Minor🕹️!
-- I’m currently working on a medical system to store and retrieve data from patients👨‍⚕️⚕️, have a look @project!
+- I’m currently working on a medical system to store and retrieve data from patients👨‍⚕️⚕️, have a look ...!
 
 <h3 align="left">Personal interests</h3>
 
-- Some of my hobbies are volleyball🏐, gaming🎮, discovering the unknown🛸 & creating memories with the people close to me👩‍👨‍👦‍👧!
+- I love volleyball🏐, gaming🎮, discovering the unknown🛸 & creating memories with the people close to me👩‍👨‍👦‍👧!
 
 # Connect with me through LinkedIn:
 <p align="left">
