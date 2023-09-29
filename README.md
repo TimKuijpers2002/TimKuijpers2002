@@ -5,20 +5,14 @@
 - I’m interested in fullstack development, but curious to discover unknown territories.🧐
 - Currently enrolled in my 7th(/8) semester📚 and looking for a graduation internship in the USA🌎 (prefered CA, Los Angeles).
 
-<br>
-
 <h3 align="left">Ongoing activities</h3>
 
 - Recently back on GitHub after a year of Software Internship🧑‍💻 & XR-Minor🕹️!
 - I’m currently working on a medical system to store and retrieve data from patients👨‍⚕️⚕️, have a look @project!
 
-<br>
-
 <h3 align="left">Personal interests</h3>
 
 - Some of my hobbies are volleyball🏐, gaming🎮, discovering the unknown🛸 & creating memories with the people close to me👩‍👨‍👦‍👧!
-
-<br>
 
 # Connect with me through LinkedIn:
 <p align="left">
